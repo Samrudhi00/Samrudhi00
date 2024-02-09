@@ -2,15 +2,14 @@
 
 <!--
 **Samrudhi00/Samrudhi00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
--->
-<h1 align="center">Hi 👋, I'm Samrudhi Shete</h1>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Samrudhi00&label=Profile%20views&color=0e75b6&style=flat" alt="Samrudhi00" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Samrudhi00" alt="Samrudhi00" /></a> </p>
-
 [![trophy](https://github-profile-trophy.vercel.app/?Samrudhi00=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+-->
+
+<h1 align="center">Hi 👋, I'm Samrudhi Shete</h1>
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
