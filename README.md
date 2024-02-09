@@ -7,7 +7,7 @@
 
 
 
-![](https://komarev.com/ghpvc/?Samrudhi00=your-github-username)
+![](https://komarev.com/ghpvc/?username=Samrudhi00&color=green)
 
 
 
