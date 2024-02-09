@@ -16,7 +16,7 @@
   
 - 👨‍I am really interested in **Competitive Programming**
   
-- 👨‍💻 2024 Goal : **Knight on Leetcode**
+- 👨‍💻 2024 Goal : **knight on Leetcode**
   
 - 👯 I’m looking to collaborate on projects
   
