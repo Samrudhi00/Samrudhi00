@@ -5,7 +5,11 @@
 
 <h1 align="center">Hi 👋, I'm Samrudhi Shete</h1>
 
+
+
 ![](https://komarev.com/ghpvc/?username=Samrudhi00&color=green)
+
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
