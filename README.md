@@ -16,9 +16,9 @@
 
 - 🔭 I’m currently working on **Spring Boot**
   
-- 🌱 I’m currently learning **System Design**
+- 🌱 I’m currently learning **Data Structure**
   
-- 👨‍I am really interested in **Competitive Programming**
+- 👨‍I am really interested in **Problem Solving**
   
 - 👨‍💻 2024 Goal : **knight on Leetcode**
   
