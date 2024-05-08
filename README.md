@@ -14,7 +14,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-- 🔭 I’m currently working on **OOPS**
+- 🔭 I’m currently working on **Myself 😃**
   
 - 🌱 I’m currently learning **Data Structure**
   
@@ -22,13 +22,20 @@
   
 - 👨‍💻 2024 Goal : **knight on Leetcode**
   
-- 👯 I’m looking to collaborate on projects
+- 👯 I’m looking to collaborate on projects and open-source projects
   
 - 💬 Ask me about ...**anything**
 
 - 📫 How to reach me: **shetesamrudhi509@gmail.com**
   
 - ⚡ Fun fact: **Book Lover**
+
+  
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Vaibhavi028&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Vaibhavi028&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavi028&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 Connect with me :
 
