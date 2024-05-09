@@ -30,7 +30,6 @@
   
 - ⚡ Fun fact: **Book Lover**
 
-![](https://leetcard.Samrudhi_01.cool/jacoblincool?ext=activity)
 
   
 # 📊 GitHub Stats:
