@@ -14,7 +14,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-- 🔭 I’m currently working on **Myself 😃**
+- 🔭 I’m currently working on **Something Intresting 😃**
   
 - 🌱 I’m currently learning **Data Structure**
   
@@ -29,6 +29,8 @@
 - 📫 How to reach me: **shetesamrudhi509@gmail.com**
   
 - ⚡ Fun fact: **Book Lover**
+
+![](https://leetcode.com/u/Samrudhi_01//lapor?ext=contest)
 
   
 # 📊 GitHub Stats:
