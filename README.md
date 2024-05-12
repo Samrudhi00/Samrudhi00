@@ -1,5 +1,5 @@
 
-<!--### Hi there 👋
+<!--### # Hi, Samrudhi this side. ✨
 **Samrudhi00/Samrudhi00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
@@ -9,9 +9,6 @@
 
 ![](https://komarev.com/ghpvc/?username=Samrudhi00&color=green)
 
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?Samrudhi00=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 - 🔭 I’m currently working on **Something Intresting 😃**
