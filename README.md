@@ -38,11 +38,23 @@
 Connect with me :
 
 <p align="left">
-<a href="https://www.linkedin.com/in/samrudhi-shete-807a9320a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SamrudhiShete" height="30" width="40" /></a>
-<a href="https://www.instagram.com/shetesamrudhi00?igsh=aDY0MTR4MjZoa21p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="SamrudhiShete" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/Samrudhi_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="SamrudhiShete" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/samrudhi00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="SamrudhiShete" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/samrudhi-shete-807a9320a" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SamrudhiShete" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/Samrudhi_01" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="SamrudhiShete" height="30" width="40" />
+  </a>
+  <a href="https://www.codechef.com/users/samrudhi_13" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" alt="SamrudhiShete" height="30" width="40" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/samrudhi00" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="SamrudhiShete" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/shetesamrudhi00?igsh=aDY0MTR4MjZoa21p" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="SamrudhiShete" height="30" width="40" />
+  </a>
 </p>
+
 
 
 
