@@ -28,7 +28,15 @@
 - ⚡ Fun fact: **Book Lover**
 
 
-  
+# 🛠️ Toolchain:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,go,html,css,javascript,react,bootstrap,flask,django,spring,go,git,github,gitlab,docker,vercel,mysql,mongodb,postman,figma,stackoverflow,pycharm,vscode,tensorflow,dsa,linkedin,discord,slack" />
+  </a>
+</p>
+
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Samrudhi00&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Samrudhi00&theme=dark&hide_border=false)<br/>
