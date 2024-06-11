@@ -11,7 +11,7 @@
 
 
 
-- 🔭 I’m currently working on **Something Intresting 😃**
+- 🔭 I’m currently working on **GSSOC'24**
   
 - 🌱 I’m currently learning **Data Structure**
   
