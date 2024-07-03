@@ -37,7 +37,7 @@ Connect with me :
   <a href="https://www.leetcode.com/Samrudhi_01" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="SamrudhiShete" height="30" width="40" />
   </a>
-  <a href="https://www.codechef.com/users/samrudhi_13" target="blank">
+  <a href="" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" alt="SamrudhiShete" height="30" width="40" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/samrudhi00" target="blank">
