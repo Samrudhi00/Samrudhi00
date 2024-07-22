@@ -9,7 +9,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Samrudhi00&color=green)
 
-
+<!--
 
 - 🔭 I’m currently working on **GSSOC'24**
   
@@ -44,9 +44,9 @@ Connect with me :
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="SamrudhiShete" height="30" width="40" />
   </a>
 </p>
+-->
 
-
-# 🛠️ Toolchain:
+# 🛠️ TechStack:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,python,go,html,css,javascript,react,bootstrap,flask,django,spring,go,git,github,gitlab,docker,vercel,mysql,mongodb,postman,figma,stackoverflow,pycharm,vscode,tensorflow,dsa,linkedin,discord,slack" />
