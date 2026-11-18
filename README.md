@@ -1,69 +1,61 @@
+# Hey, I'm Samrudhi Shete 👋
 
-<!--### # Hi, Samrudhi this side. ✨
-**Samrudhi00/Samrudhi00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+### I bring Product Thinking to Program Execution.
 
-<h1 align="center">Hi 👋, I'm Samrudhi Shete</h1>
+I enjoy working at the intersection of **Product, Technology and Program Management** — understanding problems, shaping solutions and bringing people together to make things happen.
 
+I'm currently an **Associate Program Manager – Technical at Red Hat**, working across global engineering initiatives.
 
+I believe great products aren't built by writing requirements alone, and great programs aren't successful just because timelines are met. They happen when we understand the problem, build for the people using the solution and execute with purpose.
 
-![](https://komarev.com/ghpvc/?username=Samrudhi00&color=green)
+---
 
-<!--
+## 🧭 My Approach: Think Like a Product Person. Execute Like a Program Manager.
 
-- 🔭 I’m currently working on **GSSOC'24**
-  
-- 🌱 I’m currently learning **Data Structure**
-  
-- 👨‍I am really interested in **Problem Solving**
-  
-- 👨‍💻 2024 Goal : **knight on Leetcode**
-  
-- 👯 I’m looking to collaborate on projects and open-source projects
-  
-- 💬 Ask me about ...**anything**
+| Product Thinking | Program Execution |
+|---|---|
+| Understand user problems | Align cross-functional teams |
+| Explore opportunities | Drive planning and execution |
+| Think about user journeys | Manage dependencies and risks |
+| Prioritize what matters | Create clarity and accountability |
+| Learn from feedback | Drive continuous improvement |
 
-- 📫 How to reach me: **shetesamrudhi509@gmail.com**
-  
-- ⚡ Fun fact: **Book Lover**
+I enjoy connecting these two perspectives to turn complex engineering challenges into meaningful outcomes.
 
+---
 
-Connect with me :
+## 🚀 Programs I've Worked Around
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/samrudhi-shete-807a9320a" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SamrudhiShete" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/Samrudhi_01" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="SamrudhiShete" height="30" width="40" />
-  </a>
-  <a href="" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" alt="SamrudhiShete" height="30" width="40" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/samrudhi00" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="SamrudhiShete" height="30" width="40" />
-  </a>
-</p>
--->
+I work across technology programs where platform capabilities, engineering workflows and user experience come together.
 
-# 🛠️ TechStack:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,go,html,css,javascript,react,bootstrap,flask,django,spring,go,git,github,gitlab,docker,vercel,mysql,mongodb,postman,figma,stackoverflow,pycharm,vscode,tensorflow,dsa,linkedin,discord,slack" />
-  </a>
-</p>
+- **Internal Developer Platforms** — Building better developer journeys through Backstage and Compass.
+- **MCP Servers & Registries** — Exploring how systems, tools and AI assistants can work together.
+- **Golden Paths & Engineering Standards** — Making the right way to build and deliver software easier.
+- **Data & AI Governance** — Bringing visibility, structure and governance into engineering ecosystems.
+- **Compliance Automation** — Simplifying processes through automation and better workflows.
+- **AI Agents & Assistants** — Exploring practical applications of AI in engineering workflows.
+- **Application Development** — Understanding products from the application and implementation perspective.
+- **UX & Developer Experience** — Thinking about usability, adoption and the people behind the technology.
+
+---
 
 
+👉 **Explore my portfolio:** [Add your portfolio link here]
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Samrudhi00&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Samrudhi00&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samrudhi00&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
+## 🎓 A Little More About Me
 
+- 🎓 Computer Engineering graduate
+- 🏅 SAFe® 6 Scrum Master certified
+- 💡 Curious about how technology becomes a product people love using
+- 📚 Always learning, experimenting and building
+- 🎯 Interested in Product Management, Technical Program Management and AI-driven products
 
+---
 
+### Let's Connect
 
+[LinkedIn](https://www.linkedin.com/in/samrudhi-shete-807a9320a/) · [GitHub](https://github.com/Samrudhi00)
 
-
-
+*Curious by nature. Product-minded by approach. Program-driven by execution.*
