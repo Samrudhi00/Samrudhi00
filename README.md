@@ -1,4 +1,4 @@
-# Hey, I'm Samrudhi Shete 👋
+<img width="2048" height="768" alt="image" src="https://github.com/user-attachments/assets/1a88c6a6-adee-462c-85b0-88e5c7660354" />
 
 ### I bring Product Thinking to Program Execution.
 
